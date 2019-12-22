@@ -1,17 +1,17 @@
 ---
 layout: page
-title: Best Cryptocurrency Faucets
+title: بہترین کریپٹوکرنسی ٹونٹی
 comments: false
-img: https://www.staleblock.com/assets/images/all-faucets.com-thumb.png
-alt: Cryptocurrency faucets are reward systems in a form of a website or an app that dispense free coins.
-desc: If you're new to crypto faucets this site is for you. Learn how to maximize the value of your time and effort while claiming from free bitcoin faucet sites.
-URL: https://www.staleblock.com/index.html
+img: https://www.all-faucets.com/assets/images/all-faucets.com-thumb.png
+alt: کریپٹوکرنسی faucets ایک ویب سائٹ یا ایک ایپ کی شکل میں انعام والے نظام ہیں جو مفت سککوں کو تقسیم کرتے ہیں۔
+desc: اگر آپ crypto faucets پر نئے ہیں تو یہ سائٹ آپ کے لئے ہے۔ مفت بٹ کوائن ٹونٹی سائٹوں سے دعوی کرتے ہوئے اپنے وقت اور کوشش کی قدر کو زیادہ سے زیادہ کرنے کا طریقہ سیکھیں۔
+URL: https://ur.all-faucets.com/index.html
 ---
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
 
 If you're new to crypto faucets this site is for you. We list bitcoin and other digital currency faucets that are verified for their value and reputation. Usually people start trying-out faucets out of curiosity, or as a hobby, but with some knowledge and consistency such hobby can offer a good income. Our goal is to share the knowledge and to enable you to earn digital currency in the way that suits your interests and your life-style.
 
-Continue reading: <a href="https://www.staleblock.com/daily/2019/12/12/index.html">Getting Started with Bitcoin Faucets</a>.
+Continue reading: <a href="https://ur.all-faucets.com/daily/2019/12/12/index.html">Getting Started with Bitcoin Faucets</a>.
 
 ---
 #### 2019's Favorite Faucets
@@ -36,3 +36,10 @@ What is your experience with crypto faucets? Have you tried any of them? Do you 
 
 <div id="commento"></div>
 <script src="https://cdn.commento.io/js/commento.js"></script>
+
+---
+#### Join our new Crypto-Community
+
+This site, all-faucets.com is focused specifically on cryptocurrency faucets. And while the domain name implies that we'll list "all" faucets, in reality there is only a handful of good faucets that are worth your time and effort. However, there are many other ways how you can earn cryptocurrency - mining, staking, IPOs and airdrops, cryto jobs and so on. There are a lot of opportunities, but you need quality information in order to use these opportunities for your advantage.
+
+It is for this reason I have started a new community site, <a href="https://www.staleblock.com/" target="_blank">StaleBlock.com</a>. The world of crypto goes far beyond the crypto faucets! <a href="https://www.staleblock.com/" target="_blank">Join me</a> to build an intelligent crypto-community at <i>StaleBlock.com</i>.
